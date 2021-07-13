@@ -7,3 +7,4 @@
 - 💬 Ask me about https://t.me/ivanshavliuga
 - 📫 How to reach me: iva.drakon.nov@gmail.com
 - My resume & portfolio https://ivanshavliuga.github.io/
+- My website https://mendel-info.usite.pro
