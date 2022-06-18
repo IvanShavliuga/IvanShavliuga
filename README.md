@@ -1,9 +1,9 @@
 ### Hi there 👋
   
   ## Ivan Shavliuga (Ivanov)
-  #  junior frontend (vue.js) developer
+  #  middle frontend (vue.js) developer
 - 🔭 I’m currently working on TMarket.io (javscript developer) and  IvanShavliuga.github.io (my personal web-page, SPA, PWA)
-- 🌱 I’m currently learning vue.js  vuetify, vant
+- 🌱 I’m currently learning nuxt.js, electron-vue
 - 💬 Ask me about https://t.me/ivanshavliuga
 - 📫 How to reach me: iva.drakon.nov@gmail.com
 - My resume & portfolio https://ivanshavliuga.github.io/
