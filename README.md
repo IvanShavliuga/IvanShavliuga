@@ -17,7 +17,7 @@
  - https://github.com/IvanShavliuga/shulte
  - https://github.com/IvanShavliuga/vuejstimer
  - https://github.com/IvanShavliuga/booksshop
-### Angulat & typescript
+### Angular & typescript
  - https://github.com/IvanShavliuga/angular-forum
 ### svelte
  - https://github.com/IvanShavliuga/svelte-todo-list
