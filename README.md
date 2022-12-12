@@ -17,6 +17,8 @@
  - https://github.com/IvanShavliuga/shulte
  - https://github.com/IvanShavliuga/vuejstimer
  - https://github.com/IvanShavliuga/booksshop
+### Vue-electron
+ - https://github.com/IvanShavliuga/vue-electron-app
 ### Angular & typescript
  - https://github.com/IvanShavliuga/angular-forum
 ### svelte
